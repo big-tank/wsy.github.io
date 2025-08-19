@@ -11,18 +11,18 @@ about:
       text: wangsiyvan@mail.nwpu.edu.cn
       href: mailto:wangsiyvan@mail.nwpu.edu.cn
     - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
-    - icon: linkedin
-      text: Siyuan Wang
-      href: https://www.linkedin.com/in/chizapoth/
+      text: big-tank
+      href: https://github.com/big-tank
+    - icon: douyin
+      text: jienizaizai6
+      href: https://www.douyin.com/user/self
 ---
 
 ::: {#hero-heading}
 
 Hello! 
 
-I am a data scientist at Roche.
+I am a Phd student at NWPU.
 
 In a previous role, I worked at the Faculty of Medicine, University of Oslo. I'm mostly interested in **RWD (real-world data)**, such as hospital **Electronic Health Record** and large public health registry data. I develop [ggehr](https://chizapoth.github.io/ggehr/), a ggplot2 extension to visualizing EHR data.
 

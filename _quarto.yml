@@ -24,7 +24,7 @@ website:
         href: projects/projects.qmd
       
       - text: "Publications"
-        href: teaching/teaching.qmd
+        href: Publication/Publication.qmd
         
      # - text: "R packages"
      #   href: rpkg/rpkg.qmd

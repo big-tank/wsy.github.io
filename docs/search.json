@@ -128,28 +128,28 @@
   {
     "objectID": "Publication/Publication.html",
     "href": "Publication/Publication.html",
-    "title": "Teaching",
+    "title": "Publication",
     "section": "",
     "text": "I started teaching introductory statistics at Faculty of Medicine, University of Oslo since early 2023. I aim to make basic data skills and statistics accessible to health researchers, by combining modern data science tools (R, quarto, version control) with hands-on practice in my class.\nIn my free time I volunteer in the Carpentries workshops to teach Rstats to researchers and students at UiO."
   },
   {
     "objectID": "Publication/Publication.html#statistics",
     "href": "Publication/Publication.html#statistics",
-    "title": "Teaching",
+    "title": "Publication",
     "section": "Statistics",
     "text": "Statistics\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nERN4110\n\n\nStatistics for master students in nutrition\n\n\n\n\n\n\nMED3007\n\n\nStatistical Principles in Genomics\n\n\n\n\n\n\nMF9130/MF9130E\n\n\nIntroductory course in statistics\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Publication/Publication.html#workshops",
     "href": "Publication/Publication.html#workshops",
-    "title": "Teaching",
+    "title": "Publication",
     "section": "Workshops",
     "text": "Workshops\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\ntype\n\n\n\n\n\n\n\n\nOslo Bioinformatics Week\n\n\nMachine Learning principles for small and noisy biomedical data\n\n\nbioinformatics\n\n\n\n\n\n\nR for Reproducible Scientific Analysis\n\n\nSoftware carpentry course for introductory R\n\n\nrstats\n\n\n\n\n\n\nZero to Quarto Workshop\n\n\nZurich R Ladies workshop\n\n\nquarto\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "Publication/Publication.html#guides-and-cheatsheets",
     "href": "Publication/Publication.html#guides-and-cheatsheets",
-    "title": "Teaching",
+    "title": "Publication",
     "section": "Guides and Cheatsheets",
     "text": "Guides and Cheatsheets\n\n\n\nTitle\nDescription\n\n\n\n\nggplot2\nLecture notes for ggplot2 at the Carpentries workshop, UiO\n\n\nlist of commands\nQuick reference list of R commands used in my statistics classes"
   },
@@ -214,7 +214,7 @@
     "href": "index.html",
     "title": "王思源",
     "section": "",
-    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     chizapoth\n  \n  \n    \n     Siyuan Wang\n  \n\n  \n  \nHello!\nI am a data scientist at Roche.\nIn a previous role, I worked at the Faculty of Medicine, University of Oslo. I’m mostly interested in RWD (real-world data), such as hospital Electronic Health Record and large public health registry data. I develop ggehr, a ggplot2 extension to visualizing EHR data.\nIn 2020-2022, I worked as part of the COVID emergency response at the Norwegian Institute of Public Health. I helped develop the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am co-leading CAMIS working group.\nAs a part-time lecturer, I teach statistics with R and Quarto at Oslo Centre for Biostatistics and Epidemiology (OCBE) and R programming at the Carpentries workshops at UiO.\nI enjoy cooking and spending time in the mountains."
+    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n  \n  \nHello!\nI am a Phd student at NWPU.\nIn a previous role, I worked at the Faculty of Medicine, University of Oslo. I’m mostly interested in RWD (real-world data), such as hospital Electronic Health Record and large public health registry data. I develop ggehr, a ggplot2 extension to visualizing EHR data.\nIn 2020-2022, I worked as part of the COVID emergency response at the Norwegian Institute of Public Health. I helped develop the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am co-leading CAMIS working group.\nAs a part-time lecturer, I teach statistics with R and Quarto at Oslo Centre for Biostatistics and Epidemiology (OCBE) and R programming at the Carpentries workshops at UiO.\nI enjoy cooking and spending time in the mountains."
   },
   {
     "objectID": "blog/blog_20230103_blogdown2quarto/index.html",
