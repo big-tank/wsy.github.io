@@ -1,6 +1,6 @@
 ---
-title: "Chi Zhang"
-image: misc/info/photo.png
+title: "王思源"
+image: misc/info/photo.jpg
 about:
   id: hero-heading
   template: trestles
@@ -8,13 +8,13 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
+      text: wangsiyvan@mail.nwpu.edu.cn
+      href: mailto:wangsiyvan@mail.nwpu.edu.cn
     - icon: github
       text: chizapoth
       href: https://github.com/chizapoth
     - icon: linkedin
-      text: Chi Zhang
+      text: Siyuan Wang
       href: https://www.linkedin.com/in/chizapoth/
 ---
 
