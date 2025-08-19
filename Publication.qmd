@@ -3,24 +3,21 @@ title: "Publications"
 editor: visual
 ---
 
-
-::: {.callout-note}
+::: callout-note
 ## Links
 
->- **ORCID**: <https://orcid.org/0009-0008-7964-5747>
->- **ResearchGate:** <https://www.researchgate.net/profile/Siyuan-Wang-102?ev=hdr_xprf>
+> -   **ORCID**: <https://orcid.org/0009-0008-7964-5747>
+> -   **ResearchGate:** <https://www.researchgate.net/profile/Siyuan-Wang-102?ev=hdr_xprf>
 :::
 
-&emsp;
+ 
 
 ## 期刊论文
 
--  **Siyuan Wang**, Menglin Zhao, Jialong Zhao, et al. Investigation on mechanical property and failure mechanism of the carbon/glass hybrid laminate bolted joints using acoustic emission. **Tribology International**, 2025, 202: 110284, Online. [Link](http://dx.doi.org/10.1016/j.triboint.2024.110284)
--  Menglin Zhao, **Siyuan Wang**, Zehong Liu, et al. A semi-analytical method for determining the mode-I delamination R-curve and fiber bridging traction-separation law of Double-double laminates. **Thin-Walled Structures**, 2024, 205: 112383, Online. [Link](http://dx.doi.org/10.1016/j.tws.2024.112383)
--  Anyang Wang, Zhongqi Wang, **Siyuan Wang**, et al. Mechanical behaviour and damage mechanism of static/dynamic interference-fit installation in laminated bolted joint using ultra-thin plies. Tribology International, 2024, 194: 109482, Online. [Link](http://dx.doi.org/10.1016/j.triboint.2024.109482)
--  Yang Zhao, Menglin Zhao, **Siyuan Wang**, et al. Experimental investigation of stacking interface on mode II interlaminar behaviour of self-healable vitrimeric CFRP. Composites Part A: Applied Science and Manufacturing, 2024, 185: 108326, Online. [Link](http://dx.doi.org/10.1016/j.compositesa.2024.108326)
-  
-
+-   **Siyuan Wang**, Menglin Zhao, Jialong Zhao, et al. Investigation on mechanical property and failure mechanism of the carbon/glass hybrid laminate bolted joints using acoustic emission. **Tribology International**, 2025, 202: 110284, Online. [Link](http://dx.doi.org/10.1016/j.triboint.2024.110284)
+-   Menglin Zhao, **Siyuan Wang**, Zehong Liu, et al. A semi-analytical method for determining the mode-I delamination R-curve and fiber bridging traction-separation law of Double-double laminates. **Thin-Walled Structures**, 2024, 205: 112383, Online. [Link](http://dx.doi.org/10.1016/j.tws.2024.112383)
+-   Anyang Wang, Zhongqi Wang, **Siyuan Wang**, et al. Mechanical behaviour and damage mechanism of static/dynamic interference-fit installation in laminated bolted joint using ultra-thin plies. Tribology International, 2024, 194: 109482, Online. [Link](http://dx.doi.org/10.1016/j.triboint.2024.109482)
+-   Yang Zhao, Menglin Zhao, **Siyuan Wang**, et al. Experimental investigation of stacking interface on mode II interlaminar behaviour of self-healable vitrimeric CFRP. Composites Part A: Applied Science and Manufacturing, 2024, 185: 108326, Online. [Link](http://dx.doi.org/10.1016/j.compositesa.2024.108326)
 
 ## 参与科研项目
 
