@@ -1,6 +1,6 @@
 ---
-title: "Chi Zhang"
-image: misc/info/photo_chi.jpg
+title: "王思源"
+image: misc/info/wsy2.jpg
 page-layout: article
 format: 
   html:
@@ -11,14 +11,14 @@ about:
   image-shape: round
   links:
     - icon: mailbox
-      text: chizapoth@gmail.com
-      href: mailto:chizapoth@gmail.com
+      text: wangsiyvan@mail.nwpu.edu.cn
+      href: mailto:wangsiyvan@mail.nwpu.edu.cn
     - icon: github
-      text: chizapoth
-      href: https://github.com/chizapoth
-    - icon: linkedin
-      text: Chi Zhang
-      href: https://www.linkedin.com/in/chizapoth/
+      text: big-tank
+      href: https://github.com/big-tank
+    - icon: douyin
+      text: jienizaizai6
+      href: https://www.douyin.com/user/self
 ---
 
 ::: {#hero-heading}
@@ -30,7 +30,7 @@ I am a statistician, R developer and part-time lecturer at the Faculty of Medici
 
 My **interests** are: 
 
-* Real World Data (RWD), in particular Electronic Health Records (EHR) data,
+* 运动：羽毛球、台球、游泳；
 * Statistical software development in public health and clinical research,
 * Statistics education with open source tools,
 * Quarto.

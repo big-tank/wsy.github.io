@@ -1,16 +1,5 @@
 [
   {
-    "listing": "/teaching/teaching.html",
-    "items": [
-      "/teaching/ern4110/index.html",
-      "/teaching/med3007/index.html",
-      "/teaching/mf9130/index.html",
-      "/teaching/workshop_bioinf/index.html",
-      "/teaching/r_novice/index.html",
-      "/teaching/workshop_rladies_zurich/index.html"
-    ]
-  },
-  {
     "listing": "/talks/talks.html",
     "items": [
       "/talks/community_20240921_quartofriends/index.html",
@@ -26,6 +15,17 @@
     "items": [
       "/rpkg/ggehr/index.html",
       "/rpkg/qtwAcademic/index.html"
+    ]
+  },
+  {
+    "listing": "/Publication/Publication.html",
+    "items": [
+      "/Publication/ern4110/index.html",
+      "/Publication/med3007/index.html",
+      "/Publication/mf9130/index.html",
+      "/Publication/workshop_bioinf/index.html",
+      "/Publication/r_novice/index.html",
+      "/Publication/workshop_rladies_zurich/index.html"
     ]
   },
   {
