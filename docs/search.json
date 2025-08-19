@@ -119,144 +119,60 @@
     "text": "An R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments\nGitHub Link"
   },
   {
-    "objectID": "Publication/workshop_bioinf/index.html",
-    "href": "Publication/workshop_bioinf/index.html",
-    "title": "Oslo Bioinformatics Week",
+    "objectID": "projects/sykdomspulsen/index.html",
+    "href": "projects/sykdomspulsen/index.html",
+    "title": "CSIDS",
     "section": "",
-    "text": "This workshop is part of the Oslo Bioinformatics Workshop Week 2022. These workshops are open to the scientific community in Oslo and the surrounding area.\nMain instructor: Manuela Zucknick\nCo-instructor: Theophilius Asenso\nDeveloper: Chi Zhang\nCourse website and repository"
+    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
   },
   {
-    "objectID": "Publication/Publication.html",
-    "href": "Publication/Publication.html",
-    "title": "Publication",
+    "objectID": "projects/sykdomspulsen/index.html#overview",
+    "href": "projects/sykdomspulsen/index.html#overview",
+    "title": "CSIDS",
     "section": "",
-    "text": "I started teaching introductory statistics at Faculty of Medicine, University of Oslo since early 2023. I aim to make basic data skills and statistics accessible to health researchers, by combining modern data science tools (R, quarto, version control) with hands-on practice in my class.\nIn my free time I volunteer in the Carpentries workshops to teach Rstats to researchers and students at UiO."
+    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
   },
   {
-    "objectID": "Publication/Publication.html#statistics",
-    "href": "Publication/Publication.html#statistics",
-    "title": "Publication",
-    "section": "Statistics",
-    "text": "Statistics\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\n\n\n\n\n\nERN4110\n\n\nStatistics for master students in nutrition\n\n\n\n\n\n\nMED3007\n\n\nStatistical Principles in Genomics\n\n\n\n\n\n\nMF9130/MF9130E\n\n\nIntroductory course in statistics\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Publication/Publication.html#workshops",
-    "href": "Publication/Publication.html#workshops",
-    "title": "Publication",
-    "section": "Workshops",
-    "text": "Workshops\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\ntype\n\n\n\n\n\n\n\n\nOslo Bioinformatics Week\n\n\nMachine Learning principles for small and noisy biomedical data\n\n\nbioinformatics\n\n\n\n\n\n\nR for Reproducible Scientific Analysis\n\n\nSoftware carpentry course for introductory R\n\n\nrstats\n\n\n\n\n\n\nZero to Quarto Workshop\n\n\nZurich R Ladies workshop\n\n\nquarto\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "Publication/Publication.html#guides-and-cheatsheets",
-    "href": "Publication/Publication.html#guides-and-cheatsheets",
-    "title": "Publication",
-    "section": "Guides and Cheatsheets",
-    "text": "Guides and Cheatsheets\n\n\n\nTitle\nDescription\n\n\n\n\nggplot2\nLecture notes for ggplot2 at the Carpentries workshop, UiO\n\n\nlist of commands\nQuick reference list of R commands used in my statistics classes"
-  },
-  {
-    "objectID": "Publication/med3007/index.html",
-    "href": "Publication/med3007/index.html",
-    "title": "MED3007",
+    "objectID": "projects/phuse/index.html",
+    "href": "projects/phuse/index.html",
+    "title": "PHUSE - CAMIS",
     "section": "",
-    "text": "Genomic data analysis is increasingly important both in medical research and in the clinical practice. In this course, you will learn the basic principles and concepts in the statistical analysis of genomic data. The course will focus on the three main tasks that are frequently involved in genomics: data visualisation, data screening and pre-processing, data modelling (prediction and classification). You will get a practical introduction to RStudio, the best statistical software for analysing genomic data, thus enabling you to perform basic programming tasks, to visualise and analyse genomic data, and to interpret the results."
+    "text": "I am contributing to two working groups at PHUSE: CAMIS, and RWD - Real World Data Guideline (early stage).\n\nCAMIS: Comparing Analysis Method Implementations in Software\nCAMIS is a cross-industry group formed of members from PHUSE, PSI and ASA.\nSeveral discrepancies have been discovered in statistical analysis results between different programming languages, even in fully qualified statistical computing environments. Observing differences across languages can reduce the analyst’s confidence in reliability and, by understanding the source of any discrepancies, one can reinstate confidence in reliability.\nThe goal of this project is to demystify conflict when doing QC and to help ease the transitions to new languages and techniques with comparison and comprehensive explanations.\n\n\nRWD Working Group\nThis is a newly formed working group, working on statistical programming guidelines while working on RWD (read world data)."
   },
   {
-    "objectID": "Publication/med3007/index.html#course-overview-med3007-at-uio",
-    "href": "Publication/med3007/index.html#course-overview-med3007-at-uio",
-    "title": "MED3007",
+    "objectID": "projects/nor_mortality/index.html",
+    "href": "projects/nor_mortality/index.html",
+    "title": "Mortality Surveillance in Norway",
     "section": "",
-    "text": "Genomic data analysis is increasingly important both in medical research and in the clinical practice. In this course, you will learn the basic principles and concepts in the statistical analysis of genomic data. The course will focus on the three main tasks that are frequently involved in genomics: data visualisation, data screening and pre-processing, data modelling (prediction and classification). You will get a practical introduction to RStudio, the best statistical software for analysing genomic data, thus enabling you to perform basic programming tasks, to visualise and analyse genomic data, and to interpret the results."
+    "text": "NorMOMO"
   },
   {
-    "objectID": "Publication/med3007/index.html#course-website-in-quarto",
-    "href": "Publication/med3007/index.html#course-website-in-quarto",
-    "title": "MED3007",
-    "section": "Course website in Quarto",
-    "text": "Course website in Quarto\nWe developed the course website in Quarto for lecture notes and R lab material. See website here.\nThe associated Github repository is also freely available."
-  },
-  {
-    "objectID": "Publication/cheatsheet_pkgdev/index.html",
-    "href": "Publication/cheatsheet_pkgdev/index.html",
-    "title": "Pkg Dev at CSIDS",
+    "objectID": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
+    "href": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
+    "title": "Mortality Surveillance in Norway",
     "section": "",
-    "text": "Rstat"
+    "text": "NorMOMO"
   },
   {
-    "objectID": "projects/projects.html",
-    "href": "projects/projects.html",
-    "title": "Projects",
+    "objectID": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
+    "href": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
+    "title": "Mortality Surveillance in Norway",
+    "section": "R packages for mortality surveillance",
+    "text": "R packages for mortality surveillance\n(continue…)\n\nnowcast\nsplalert\nmortanor"
+  },
+  {
+    "objectID": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
+    "href": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
+    "title": "Mortality Surveillance in Norway",
+    "section": "Collaboration with Cause of Death Registry",
+    "text": "Collaboration with Cause of Death Registry"
+  },
+  {
+    "objectID": "projects/ehr/index.html",
+    "href": "projects/ehr/index.html",
+    "title": "ggehr",
     "section": "",
-    "text": "Real World Data and Public health\nMy main research interest is hospital Electronic Health Records and large health registry data. My PhD (completed in 2022) focused on representation and utilization of hospital EHR data. I am currently working on quality assurance of the prescription and use of antibiotics in a hospital setting, and an R package ggehr to facilitate the exploration of EHR data.\nIn 2020-2022, I worked at Norwegian Institute of Public Health during Covid-19 pandemic. I helped develop Sykdomspulsen (now CSIDS), a real-time infectious disease surveillance and real-time large scale reporting with open source technology.\nSince 2023, I joined NOR-Eden and Norkost projects at University of Oslo. I help develop a set of R tools to facilitate sustainable diet design, noreden.\n\n\n\n\n\n\n\n\n\n\nggehr\n\n\nggplot2 extension to EHR data\n\n\n\n\n\n\n\n\n\n\n\n\nCSIDS\n\n\nConsortium for Statistics in Disease Surveillance\n\n\n\n\n\nNo matching items\n\n\n\nOpen source data science in healthcare\nI work on open source data science projects with healthcare applications. I am the developer of MF9310E quarto website, leading the transition of teaching university biostatistics courses using R and Quarto. I’m also a co-lead of the PHUSE CAMIS project.\n\n\n\n\n\n\n\n\n\n\nTeach in R and Quarto\n\n\nTransform biostatistics classroom into R and quarto\n\n\n\n\n\n\n\n\n\n\n\n\nPHUSE - CAMIS\n\n\nContributor to the Global Healthcare Data Science Community\n\n\n\n\n\n\n\n\n\n\n\n\nData Apothecary’s Notes\n\n\nMy own note-taking system for a modern health data scientist\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects/os_teaching/index.html",
-    "href": "projects/os_teaching/index.html",
-    "title": "Teach in R and Quarto",
-    "section": "",
-    "text": "MF9130E - Introductory course in statistics\n8-day intensive course on introductory statistics. April 2023 we made it with R rather than propriety software, coupled with live-coding sessions to enhance understanding of basic concepts such as distribution and hypothesis tests.\nRepository\nCourse website\nRead more about the experience in\n\nblogpost\npresentation"
-  },
-  {
-    "objectID": "projects/noreden/index.html",
-    "href": "projects/noreden/index.html",
-    "title": "Noreden",
-    "section": "",
-    "text": "Noreden"
-  },
-  {
-    "objectID": "projects/dan/index.html",
-    "href": "projects/dan/index.html",
-    "title": "Data Apothecary’s Notes",
-    "section": "",
-    "text": "(This is my own note-taking system using quarto)\n\nAbout the notes\nData Apothecary’s Notes is a note-taking repository for modern data science skills with a focus on drug development and clinical trials. Content will be gradually added while I learn the topics. Therefore, it is by no means a complete guide by the time you read it!\nI try to organize the content in a modular way. I think these should cover the important aspects in which a data scientist / modern statistician should know.\n\nstudy design\ninference\nmodels\nreporting\nprogramming\n\n\n\nWhy quarto\nIn short, quarto has the advantage of making a very well structured website with code chunks easy. No more worry about scattered notes in different folders - put them together, render it so you can find your notes quickly!"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "王思源",
-    "section": "",
-    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n  \n  \nHello!\nI am a Phd student at NWPU.\nIn a previous role, I worked at the Faculty of Medicine, University of Oslo. I’m mostly interested in RWD (real-world data), such as hospital Electronic Health Record and large public health registry data. I develop ggehr, a ggplot2 extension to visualizing EHR data.\nIn 2020-2022, I worked as part of the COVID emergency response at the Norwegian Institute of Public Health. I helped develop the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am co-leading CAMIS working group.\nAs a part-time lecturer, I teach statistics with R and Quarto at Oslo Centre for Biostatistics and Epidemiology (OCBE) and R programming at the Carpentries workshops at UiO.\nI enjoy cooking and spending time in the mountains."
-  },
-  {
-    "objectID": "blog/blog_20230103_blogdown2quarto/index.html",
-    "href": "blog/blog_20230103_blogdown2quarto/index.html",
-    "title": "Website reboot: switching from Blogdown to Quarto",
-    "section": "",
-    "text": "Since the first time I tried the “academic” template in the popular blogdown package in 2019, three years have passed. Back then, it was THE way to build a personal website using R. The “academic” template was notoriously rich in content, and my solution was to delete components, compile, if it works - great; if not, I put the deleted content back. It worked for a while.\nWhen the distill package came out (probably in 2020?), I rebooted my website since I preferred its clean, minimalistic style. The look was possibly more appropriate for websites for an organisation or tutorials rather than personal blog, yet I appreciated the simplicity.\nThen I stopped updating my website. Between mid 2020 and early 2022, I was too stressed about completing my PhD, and balancing my other two jobs wasn’t the easiest thing. During this period, my mind had been going back to the old site from time to time, but it was hard to find enough time or energy to write about stuff."
-  },
-  {
-    "objectID": "blog/blog_20230103_blogdown2quarto/index.html#from-blogdown-to-distill",
-    "href": "blog/blog_20230103_blogdown2quarto/index.html#from-blogdown-to-distill",
-    "title": "Website reboot: switching from Blogdown to Quarto",
-    "section": "",
-    "text": "Since the first time I tried the “academic” template in the popular blogdown package in 2019, three years have passed. Back then, it was THE way to build a personal website using R. The “academic” template was notoriously rich in content, and my solution was to delete components, compile, if it works - great; if not, I put the deleted content back. It worked for a while.\nWhen the distill package came out (probably in 2020?), I rebooted my website since I preferred its clean, minimalistic style. The look was possibly more appropriate for websites for an organisation or tutorials rather than personal blog, yet I appreciated the simplicity.\nThen I stopped updating my website. Between mid 2020 and early 2022, I was too stressed about completing my PhD, and balancing my other two jobs wasn’t the easiest thing. During this period, my mind had been going back to the old site from time to time, but it was hard to find enough time or energy to write about stuff."
-  },
-  {
-    "objectID": "blog/blog_20230103_blogdown2quarto/index.html#time-to-try-quarto",
-    "href": "blog/blog_20230103_blogdown2quarto/index.html#time-to-try-quarto",
-    "title": "Website reboot: switching from Blogdown to Quarto",
-    "section": "Time to try Quarto",
-    "text": "Time to try Quarto\nNow that I’ve finally completed the more pressing tasks in October 2022, I can catch up to the cool kids on twitter: create a website with Quarto!\nThere were quite a lot of discussions about Quarto in the summer 2022. I wasn’t following the discussions closely, but I remember there were quite a few talks in the Rstudio conference this year. Then more and more people switched to Quarto on Twitter. Then people I know also switched to Quarto. What’s the fuzz about?\nMy experience with Quarto is focused on websites. I have not tried other forms of publishing. So far I have created:\n\na workshop website for my colleagues\na personal website (the one you are reading right now)\nan R package (qtwAcademic)that wraps three Quarto website templates for beginners\n\nHere are a few things I like about Quarto. Given that I’m not very experienced in front-end development, these comments are going to be about ease-of-use and design, rather than the technicalities.\n\nClean look for both personal and workshop/courses\nWhen I was using “academic” template in blogdown, I liked the structure of the site: projects, talks, blog, softwares and publications sections are clearly displayed at the top. What I didn’t like is that the default homepage was a very long single page; yet its customisation wasn’t the easist. Other templates were either too simple (for blog only), or more suitable for image display (photography projects). I wanted a website that keep the good structure of “academic”, which is quite suitable for academics (hence the name); while keeping each section independent.\nWith distill I could achieve the structure I wanted; but I didn’t enjoy it too much as a personal website (at least it wasn’t as flexible as Quarto). distill is still pretty decent for organisations or documentation site.\nWith Quarto, I can achieve the desired looks for not only a personal website (with or without blogs), but also a workshop, event or even course website. This is fantastic! The top, sidebar or hybrid navigation makes the site structure very clear, especially when there are lots of content. As an aspiring lecturer at university, this is really One Quarto Rules Them All.\n\n\nFlexible yet not overwhelming\nAs I mentioned above, hacking “academic” in blogdown was not that easy - simply because there were too many folders that you are not actually supposed to modify. It was confusing to know what to change in order to achieve the desired output, and multiple folders were having the same names, making it very challenging for beginners. Ironically, this is usually the first template beginners start with!\nThat’s why I immediately fell for Quarto: you only need 4 components to make a decent minimalistic website work:\n\n_quarto.yml to control the overall layout\nindex.qmd at the root folder to control the homepage\nabout.qmd for some basic information about the creator or the website\nproject.qmd for projects or any other content that the creator wants to display\n\nThe way that _quarto.yml clearly specifies the .qmd files really helps beginners to understand where things are. This has been extremely useful for me when I wanted to learn how people made their website by reading the source code - I could understand exactly where to find the information I needed. The clear structure greatly helps the creators themselves, and also those who want to learn.\n\n\nGreat community\nRstats people have a great community. I wouldn’t be able to make my site the way I wanted if people haven’t been sharing their works. I have learned a lot by reading the source code by Dr Emi Tanaka, Dr David Schoch, Bea Milz, Prof Mine Cetinnkaya-Rundel’s STA 210 - Regression Analysis course.\nI also made my own R package that wraps three templates to create Quarto websites that are frequently used by academics, qtwAcademic. In the following days I plan to write up more detailed explanations on how to use the package, along with some new features."
-  },
-  {
-    "objectID": "about_me.html",
-    "href": "about_me.html",
-    "title": "王思源",
-    "section": "",
-    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n\n\nI am a statistician, R developer and part-time lecturer at the Faculty of Medicine, University of Oslo. Over the past few years, I’ve become very interested in research software, open source and data science practices in education and public sector.\nMy interests are:\n\n运动：羽毛球、台球、游泳；\nStatistical software development in public health and clinical research,\nStatistics education with open source tools,\nQuarto.\n\nI have a MSc in Statistics from Imperial College London in 2016. Then I moved to Norway to do my PhD and some hiking. I obtained my PhD (thesis: Representation and Utilization of hospital Electronic Health Records data) at the Faculty of Medicine, University of Oslo in 2022. I am still working on EHR and antibiotics related projects, and I develop ggehr, a ggplot2 extension to visualizing EHR data.\nShortly after the COVID-19 pandemic started in 2020, I joined Norwegian Institute of Public Health as a data scientist (R developer + statistician) for the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am one of a founding members of CSIDS, the Consortium for Statistics in Disease Surveillance, where we build open source software for public health surveillance.\nSometimes I teach statistics courses (MF9130, MF9130E, ERN4110) at Oslo Centre for Biostatistics and Epidemiology (OCBE), University of Oslo. As a certified Carpentries instructor, I also teach and help with R programming at the Carpentries workshops at University of Oslo. In 2023, I lead the transition of medical statistics classroom of MF9130E into open-source (read more).\nI am an active member of Oslo User R group and Oslo R ladies group. I give talks and host workshops to learn and share.\nIn the past 11 years I have lived in the UK and Norway (7+ years). I speak English, Norwegian and Chinese, and trying to learn Italian. I like outdoor activities, and most likely I am spending my summer in the mountains."
-  },
-  {
-    "objectID": "blog/blog.html",
-    "href": "blog/blog.html",
-    "title": "Blog and notes",
-    "section": "",
-    "text": "Blog\n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nWebsite reboot: switching from Blogdown to Quarto\n\n\n1/3/23\n\n\n\n\n\n\nNo matching items\n\n\n\nTechnical notes\nMost of the technical notes are in the newly built note repository, Data Apothecary’s Notes. Please feel free to reach out if you found any errors!\nI’d be glad if it helps you in some way.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items\n\n\n\nReading notes\nThis section is constantly being updated.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "dev/short_bio.html",
-    "href": "dev/short_bio.html",
-    "title": "WANG SIYUAN",
-    "section": "",
-    "text": "Chi Zhang is a statistician and R developer at the Faculty of Medicine, University of Oslo in Norway. Since 2016, She has been working with Real World Data such as Electronic Health Records (EHR) and large public health registries. In 2020-2022 she worked as part of the COVID emergency response team at Norwegian Institute of Public Health to develop an open source real-time analysis and public health surveillance system. At the moment Chi is collaborating with Oslo University Hospital and Akershus University Hospital on understanding antibiotics prescription and usage recorded in the EHR system. She develops R packages to facilitate exploration of messy EHR data. Outside research and R package development, She teaches statistics courses using R and Quarto. Chi is a Co-lead of the CAMIS project (Comparing Analysis Method Implementations in Software) and has contributed to various chapters to RWD Guideline for Programming and Analysis Processes."
+    "text": "ggehr (read: gg E-H-R) stands for ggplot2 extension for EHR data, which provides a set of tools to facilitate EHR (Electronic Health Records) visualization.\nggehr package helps you make visualize EHR data, so that you can\n\nhave an overview of the mixed type information related to a patient;\nvisually identify the errors in data recording.\n\nLearn more about ggehr"
   },
   {
     "objectID": "misc/literature.html",
@@ -294,109 +210,102 @@
     "text": "AB stewardship (not so relevant)\nRenggli 2021: consumption of anti-meticillin resistant staphylococcus aureus antibiotics in Swiss hospitals is associateed with antibiotic stewardship measures\nVaughn 2021: AB overuse and stewardship at hospital discharge\nGraber 2019: electronic tools to decrease AB use"
   },
   {
-    "objectID": "projects/ehr/index.html",
-    "href": "projects/ehr/index.html",
-    "title": "ggehr",
+    "objectID": "dev/short_bio.html",
+    "href": "dev/short_bio.html",
+    "title": "WANG SIYUAN",
     "section": "",
-    "text": "ggehr (read: gg E-H-R) stands for ggplot2 extension for EHR data, which provides a set of tools to facilitate EHR (Electronic Health Records) visualization.\nggehr package helps you make visualize EHR data, so that you can\n\nhave an overview of the mixed type information related to a patient;\nvisually identify the errors in data recording.\n\nLearn more about ggehr"
+    "text": "Chi Zhang is a statistician and R developer at the Faculty of Medicine, University of Oslo in Norway. Since 2016, She has been working with Real World Data such as Electronic Health Records (EHR) and large public health registries. In 2020-2022 she worked as part of the COVID emergency response team at Norwegian Institute of Public Health to develop an open source real-time analysis and public health surveillance system. At the moment Chi is collaborating with Oslo University Hospital and Akershus University Hospital on understanding antibiotics prescription and usage recorded in the EHR system. She develops R packages to facilitate exploration of messy EHR data. Outside research and R package development, She teaches statistics courses using R and Quarto. Chi is a Co-lead of the CAMIS project (Comparing Analysis Method Implementations in Software) and has contributed to various chapters to RWD Guideline for Programming and Analysis Processes."
   },
   {
-    "objectID": "projects/nor_mortality/index.html",
-    "href": "projects/nor_mortality/index.html",
-    "title": "Mortality Surveillance in Norway",
+    "objectID": "blog/blog.html",
+    "href": "blog/blog.html",
+    "title": "Blog and notes",
     "section": "",
-    "text": "NorMOMO"
+    "text": "Blog\n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nWebsite reboot: switching from Blogdown to Quarto\n\n\n1/3/23\n\n\n\n\n\n\nNo matching items\n\n\n\nTechnical notes\nMost of the technical notes are in the newly built note repository, Data Apothecary’s Notes. Please feel free to reach out if you found any errors!\nI’d be glad if it helps you in some way.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items\n\n\n\nReading notes\nThis section is constantly being updated.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
-    "href": "projects/nor_mortality/index.html#norwegian-surveillance-system-for-excess-mortality",
-    "title": "Mortality Surveillance in Norway",
+    "objectID": "about_me.html",
+    "href": "about_me.html",
+    "title": "王思源",
     "section": "",
-    "text": "NorMOMO"
+    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n\n\nI am a statistician, R developer and part-time lecturer at the Faculty of Medicine, University of Oslo. Over the past few years, I’ve become very interested in research software, open source and data science practices in education and public sector.\nMy interests are:\n\n运动：羽毛球、台球、游泳；\nStatistical software development in public health and clinical research,\nStatistics education with open source tools,\nQuarto.\n\nI have a MSc in Statistics from Imperial College London in 2016. Then I moved to Norway to do my PhD and some hiking. I obtained my PhD (thesis: Representation and Utilization of hospital Electronic Health Records data) at the Faculty of Medicine, University of Oslo in 2022. I am still working on EHR and antibiotics related projects, and I develop ggehr, a ggplot2 extension to visualizing EHR data.\nShortly after the COVID-19 pandemic started in 2020, I joined Norwegian Institute of Public Health as a data scientist (R developer + statistician) for the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am one of a founding members of CSIDS, the Consortium for Statistics in Disease Surveillance, where we build open source software for public health surveillance.\nSometimes I teach statistics courses (MF9130, MF9130E, ERN4110) at Oslo Centre for Biostatistics and Epidemiology (OCBE), University of Oslo. As a certified Carpentries instructor, I also teach and help with R programming at the Carpentries workshops at University of Oslo. In 2023, I lead the transition of medical statistics classroom of MF9130E into open-source (read more).\nI am an active member of Oslo User R group and Oslo R ladies group. I give talks and host workshops to learn and share.\nIn the past 11 years I have lived in the UK and Norway (7+ years). I speak English, Norwegian and Chinese, and trying to learn Italian. I like outdoor activities, and most likely I am spending my summer in the mountains."
   },
   {
-    "objectID": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
-    "href": "projects/nor_mortality/index.html#r-packages-for-mortality-surveillance",
-    "title": "Mortality Surveillance in Norway",
-    "section": "R packages for mortality surveillance",
-    "text": "R packages for mortality surveillance\n(continue…)\n\nnowcast\nsplalert\nmortanor"
-  },
-  {
-    "objectID": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
-    "href": "projects/nor_mortality/index.html#collaboration-with-cause-of-death-registry",
-    "title": "Mortality Surveillance in Norway",
-    "section": "Collaboration with Cause of Death Registry",
-    "text": "Collaboration with Cause of Death Registry"
-  },
-  {
-    "objectID": "projects/phuse/index.html",
-    "href": "projects/phuse/index.html",
-    "title": "PHUSE - CAMIS",
+    "objectID": "blog/blog_20230103_blogdown2quarto/index.html",
+    "href": "blog/blog_20230103_blogdown2quarto/index.html",
+    "title": "Website reboot: switching from Blogdown to Quarto",
     "section": "",
-    "text": "I am contributing to two working groups at PHUSE: CAMIS, and RWD - Real World Data Guideline (early stage).\n\nCAMIS: Comparing Analysis Method Implementations in Software\nCAMIS is a cross-industry group formed of members from PHUSE, PSI and ASA.\nSeveral discrepancies have been discovered in statistical analysis results between different programming languages, even in fully qualified statistical computing environments. Observing differences across languages can reduce the analyst’s confidence in reliability and, by understanding the source of any discrepancies, one can reinstate confidence in reliability.\nThe goal of this project is to demystify conflict when doing QC and to help ease the transitions to new languages and techniques with comparison and comprehensive explanations.\n\n\nRWD Working Group\nThis is a newly formed working group, working on statistical programming guidelines while working on RWD (read world data)."
+    "text": "Since the first time I tried the “academic” template in the popular blogdown package in 2019, three years have passed. Back then, it was THE way to build a personal website using R. The “academic” template was notoriously rich in content, and my solution was to delete components, compile, if it works - great; if not, I put the deleted content back. It worked for a while.\nWhen the distill package came out (probably in 2020?), I rebooted my website since I preferred its clean, minimalistic style. The look was possibly more appropriate for websites for an organisation or tutorials rather than personal blog, yet I appreciated the simplicity.\nThen I stopped updating my website. Between mid 2020 and early 2022, I was too stressed about completing my PhD, and balancing my other two jobs wasn’t the easiest thing. During this period, my mind had been going back to the old site from time to time, but it was hard to find enough time or energy to write about stuff."
   },
   {
-    "objectID": "projects/sykdomspulsen/index.html",
-    "href": "projects/sykdomspulsen/index.html",
-    "title": "CSIDS",
+    "objectID": "blog/blog_20230103_blogdown2quarto/index.html#from-blogdown-to-distill",
+    "href": "blog/blog_20230103_blogdown2quarto/index.html#from-blogdown-to-distill",
+    "title": "Website reboot: switching from Blogdown to Quarto",
     "section": "",
-    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
+    "text": "Since the first time I tried the “academic” template in the popular blogdown package in 2019, three years have passed. Back then, it was THE way to build a personal website using R. The “academic” template was notoriously rich in content, and my solution was to delete components, compile, if it works - great; if not, I put the deleted content back. It worked for a while.\nWhen the distill package came out (probably in 2020?), I rebooted my website since I preferred its clean, minimalistic style. The look was possibly more appropriate for websites for an organisation or tutorials rather than personal blog, yet I appreciated the simplicity.\nThen I stopped updating my website. Between mid 2020 and early 2022, I was too stressed about completing my PhD, and balancing my other two jobs wasn’t the easiest thing. During this period, my mind had been going back to the old site from time to time, but it was hard to find enough time or energy to write about stuff."
   },
   {
-    "objectID": "projects/sykdomspulsen/index.html#overview",
-    "href": "projects/sykdomspulsen/index.html#overview",
-    "title": "CSIDS",
+    "objectID": "blog/blog_20230103_blogdown2quarto/index.html#time-to-try-quarto",
+    "href": "blog/blog_20230103_blogdown2quarto/index.html#time-to-try-quarto",
+    "title": "Website reboot: switching from Blogdown to Quarto",
+    "section": "Time to try Quarto",
+    "text": "Time to try Quarto\nNow that I’ve finally completed the more pressing tasks in October 2022, I can catch up to the cool kids on twitter: create a website with Quarto!\nThere were quite a lot of discussions about Quarto in the summer 2022. I wasn’t following the discussions closely, but I remember there were quite a few talks in the Rstudio conference this year. Then more and more people switched to Quarto on Twitter. Then people I know also switched to Quarto. What’s the fuzz about?\nMy experience with Quarto is focused on websites. I have not tried other forms of publishing. So far I have created:\n\na workshop website for my colleagues\na personal website (the one you are reading right now)\nan R package (qtwAcademic)that wraps three Quarto website templates for beginners\n\nHere are a few things I like about Quarto. Given that I’m not very experienced in front-end development, these comments are going to be about ease-of-use and design, rather than the technicalities.\n\nClean look for both personal and workshop/courses\nWhen I was using “academic” template in blogdown, I liked the structure of the site: projects, talks, blog, softwares and publications sections are clearly displayed at the top. What I didn’t like is that the default homepage was a very long single page; yet its customisation wasn’t the easist. Other templates were either too simple (for blog only), or more suitable for image display (photography projects). I wanted a website that keep the good structure of “academic”, which is quite suitable for academics (hence the name); while keeping each section independent.\nWith distill I could achieve the structure I wanted; but I didn’t enjoy it too much as a personal website (at least it wasn’t as flexible as Quarto). distill is still pretty decent for organisations or documentation site.\nWith Quarto, I can achieve the desired looks for not only a personal website (with or without blogs), but also a workshop, event or even course website. This is fantastic! The top, sidebar or hybrid navigation makes the site structure very clear, especially when there are lots of content. As an aspiring lecturer at university, this is really One Quarto Rules Them All.\n\n\nFlexible yet not overwhelming\nAs I mentioned above, hacking “academic” in blogdown was not that easy - simply because there were too many folders that you are not actually supposed to modify. It was confusing to know what to change in order to achieve the desired output, and multiple folders were having the same names, making it very challenging for beginners. Ironically, this is usually the first template beginners start with!\nThat’s why I immediately fell for Quarto: you only need 4 components to make a decent minimalistic website work:\n\n_quarto.yml to control the overall layout\nindex.qmd at the root folder to control the homepage\nabout.qmd for some basic information about the creator or the website\nproject.qmd for projects or any other content that the creator wants to display\n\nThe way that _quarto.yml clearly specifies the .qmd files really helps beginners to understand where things are. This has been extremely useful for me when I wanted to learn how people made their website by reading the source code - I could understand exactly where to find the information I needed. The clear structure greatly helps the creators themselves, and also those who want to learn.\n\n\nGreat community\nRstats people have a great community. I wouldn’t be able to make my site the way I wanted if people haven’t been sharing their works. I have learned a lot by reading the source code by Dr Emi Tanaka, Dr David Schoch, Bea Milz, Prof Mine Cetinnkaya-Rundel’s STA 210 - Regression Analysis course.\nI also made my own R package that wraps three templates to create Quarto websites that are frequently used by academics, qtwAcademic. In the following days I plan to write up more detailed explanations on how to use the package, along with some new features."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "王思源",
     "section": "",
-    "text": "CSIDS: the Consortium for Statistics in Disease Surveillance (previously Sykdomspulsen) is a real-time analysis and disease surveillance system designed and developed at the Norwegian Institute of Public Health (NIPH/FHI). It is a unique project that processes new data (e.g. covid-19 cases) shortly after it is available. Complex statistical analyses are automatically run for all locations in Norway, producing reports and alerting various stakeholders. This provides the health authorities the ability to make proactive strategic decisions with the most up-to-date information.\n\n\ncsverse is a number of R packages that have been developed by the Sykdomspulsen team to help with infectious diseases surveillance.\n\n\n\nIn November 2022, the core components of Sykdomspulsen and splverse R packages have been migrated to CSIDS: the Consortium for Statistics in Disease Surveillance. Please refer to CSIDS for ongoing developments.\n\n\n\n\nWe receive data from more than 15 data sources every day\n2 000 000 000+ rows of data and results (1TB)\n1 000+ database tables\n1 000 000+ analyses per day\n1 000+ automatic reports per day\n\n\n\nDownload poster (Norwegian)"
+    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n  \n  \nHello!\nI am a Phd student at NWPU.\nI’m mostly interested in RWD (real-world data), such as hospital Electronic Health Record and large public health registry data. I develop ggehr, a ggplot2 extension to visualizing EHR data.\nIn 2020-2022, I worked as part of the COVID emergency response at the Norwegian Institute of Public Health. I helped develop the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am co-leading CAMIS working group.\nAs a part-time lecturer, I teach statistics with R and Quarto at Oslo Centre for Biostatistics and Epidemiology (OCBE) and R programming at the Carpentries workshops at UiO.\nI enjoy cooking and spending time in the mountains."
   },
   {
-    "objectID": "Publication/ern4110/index.html",
-    "href": "Publication/ern4110/index.html",
-    "title": "ERN4110",
+    "objectID": "projects/dan/index.html",
+    "href": "projects/dan/index.html",
+    "title": "Data Apothecary’s Notes",
     "section": "",
-    "text": "ERN4110\nEmnet gir en anvendt rettet innføring i statistiske grunnbegreper og sentrale statistiske metoder. Det blir lagt vekt på konkrete eksempler fra ernæringsvitenskap og medisin. PC-øvelser med statistikkpakken Stata er en essensiell del av undervisningen."
+    "text": "(This is my own note-taking system using quarto)\n\nAbout the notes\nData Apothecary’s Notes is a note-taking repository for modern data science skills with a focus on drug development and clinical trials. Content will be gradually added while I learn the topics. Therefore, it is by no means a complete guide by the time you read it!\nI try to organize the content in a modular way. I think these should cover the important aspects in which a data scientist / modern statistician should know.\n\nstudy design\ninference\nmodels\nreporting\nprogramming\n\n\n\nWhy quarto\nIn short, quarto has the advantage of making a very well structured website with code chunks easy. No more worry about scattered notes in different folders - put them together, render it so you can find your notes quickly!"
   },
   {
-    "objectID": "Publication/ern4110/index.html#ern4110-statistikk-for-masterstudenter-i-ernæring",
-    "href": "Publication/ern4110/index.html#ern4110-statistikk-for-masterstudenter-i-ernæring",
-    "title": "ERN4110",
+    "objectID": "projects/noreden/index.html",
+    "href": "projects/noreden/index.html",
+    "title": "Noreden",
     "section": "",
-    "text": "ERN4110\nEmnet gir en anvendt rettet innføring i statistiske grunnbegreper og sentrale statistiske metoder. Det blir lagt vekt på konkrete eksempler fra ernæringsvitenskap og medisin. PC-øvelser med statistikkpakken Stata er en essensiell del av undervisningen."
+    "text": "Noreden"
   },
   {
-    "objectID": "Publication/mf9130/index.html",
-    "href": "Publication/mf9130/index.html",
-    "title": "MF9130/MF9130E",
+    "objectID": "projects/os_teaching/index.html",
+    "href": "projects/os_teaching/index.html",
+    "title": "Teach in R and Quarto",
     "section": "",
-    "text": "This 8-days course is provided in both English and Norwegian. Generally,"
+    "text": "MF9130E - Introductory course in statistics\n8-day intensive course on introductory statistics. April 2023 we made it with R rather than propriety software, coupled with live-coding sessions to enhance understanding of basic concepts such as distribution and hypothesis tests.\nRepository\nCourse website\nRead more about the experience in\n\nblogpost\npresentation"
   },
   {
-    "objectID": "Publication/mf9130/index.html#mf9130e---introductory-course-in-statistics",
-    "href": "Publication/mf9130/index.html#mf9130e---introductory-course-in-statistics",
-    "title": "MF9130/MF9130E",
-    "section": "MF9130E - Introductory course in statistics",
-    "text": "MF9130E - Introductory course in statistics\nCourse site developed by instructors (I am the lead developer for this website)\nOfficial course site: MF9130E\nThe aim of the course is to make the participants acquainted with basic statistical ideas and methods. No special previous knowledge of mathematics or statistics is assumed. The statistical software R and the RStudio environment will be used in many of the exercises. Analysis of examples from biomedical research will be emphasized."
-  },
-  {
-    "objectID": "Publication/mf9130/index.html#mf9130---innføring-i-statistikk",
-    "href": "Publication/mf9130/index.html#mf9130---innføring-i-statistikk",
-    "title": "MF9130/MF9130E",
-    "section": "MF9130 - Innføring i statistikk",
-    "text": "MF9130 - Innføring i statistikk\nMF9130\nMålet for kurset er å gjøre deltagerne kjent med grunnleggende statistiske ideer og metoder. Det forutsettes ikke spesielle forkunnskaper i matematikk eller statistikk. Den statistiske programpakken STATA vil bli benyttet i mange av øvelsene. Analyse av konkrete eksempler fra medisinsk forskning vil bli vektlagt."
-  },
-  {
-    "objectID": "Publication/r_novice/index.html",
-    "href": "Publication/r_novice/index.html",
-    "title": "R for Reproducible Scientific Analysis",
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "I have been involved in multiple introductory R workshops at University of Oslo, sometimes as the instructor and sometimes, a helper.\nYou can check the course material for my ggplot2 lecture.\nMore information about the Carpentries at University of Oslo can be found here: Carpentries at UiO"
+    "text": "Real World Data and Public health\nMy main research interest is hospital Electronic Health Records and large health registry data. My PhD (completed in 2022) focused on representation and utilization of hospital EHR data. I am currently working on quality assurance of the prescription and use of antibiotics in a hospital setting, and an R package ggehr to facilitate the exploration of EHR data.\nIn 2020-2022, I worked at Norwegian Institute of Public Health during Covid-19 pandemic. I helped develop Sykdomspulsen (now CSIDS), a real-time infectious disease surveillance and real-time large scale reporting with open source technology.\nSince 2023, I joined NOR-Eden and Norkost projects at University of Oslo. I help develop a set of R tools to facilitate sustainable diet design, noreden.\n\n\n\n\n\n\n\n\n\n\nggehr\n\n\nggplot2 extension to EHR data\n\n\n\n\n\n\n\n\n\n\n\n\nCSIDS\n\n\nConsortium for Statistics in Disease Surveillance\n\n\n\n\n\nNo matching items\n\n\n\nOpen source data science in healthcare\nI work on open source data science projects with healthcare applications. I am the developer of MF9310E quarto website, leading the transition of teaching university biostatistics courses using R and Quarto. I’m also a co-lead of the PHUSE CAMIS project.\n\n\n\n\n\n\n\n\n\n\nTeach in R and Quarto\n\n\nTransform biostatistics classroom into R and quarto\n\n\n\n\n\n\n\n\n\n\n\n\nPHUSE - CAMIS\n\n\nContributor to the Global Healthcare Data Science Community\n\n\n\n\n\n\n\n\n\n\n\n\nData Apothecary’s Notes\n\n\nMy own note-taking system for a modern health data scientist\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "Publication/workshop_rladies_zurich/index.html",
-    "href": "Publication/workshop_rladies_zurich/index.html",
-    "title": "Zero to Quarto Workshop",
+    "objectID": "Publication.html",
+    "href": "Publication.html",
+    "title": "Publications",
     "section": "",
-    "text": "Date: Monday 23 October 2023, 6:30PM to 8:00PM, CEST\nPlace: KO2-F-153, Rämistrasse 71, Zürich.\nEvent link\nPresenter: Chi Zhang. Feel free to reach out with comments and feedback!\nWorkshop site"
+    "text": "Links\n\n\n\n\n\nORCID: https://orcid.org/0009-0008-7964-5747\nResearchGate: https://www.researchgate.net/profile/Siyuan-Wang-102?ev=hdr_xprf"
+  },
+  {
+    "objectID": "Publication.html#期刊论文",
+    "href": "Publication.html#期刊论文",
+    "title": "Publications",
+    "section": "期刊论文",
+    "text": "期刊论文\n\nSiyuan Wang, Menglin Zhao, Jialong Zhao, et al. Investigation on mechanical property and failure mechanism of the carbon/glass hybrid laminate bolted joints using acoustic emission. Tribology International, 2025, 202: 110284, Online. Link\nMenglin Zhao, Siyuan Wang, Zehong Liu, et al. A semi-analytical method for determining the mode-I delamination R-curve and fiber bridging traction-separation law of Double-double laminates. Thin-Walled Structures, 2024, 205: 112383, Online. Link\nAnyang Wang, Zhongqi Wang, Siyuan Wang, et al. Mechanical behaviour and damage mechanism of static/dynamic interference-fit installation in laminated bolted joint using ultra-thin plies. Tribology International, 2024, 194: 109482, Online. Link\nYang Zhao, Menglin Zhao, Siyuan Wang, et al. Experimental investigation of stacking interface on mode II interlaminar behaviour of self-healable vitrimeric CFRP. Composites Part A: Applied Science and Manufacturing, 2024, 185: 108326, Online. Link"
+  },
+  {
+    "objectID": "Publication.html#参与科研项目",
+    "href": "Publication.html#参与科研项目",
+    "title": "Publications",
+    "section": "参与科研项目",
+    "text": "参与科研项目\n\n国家重点研发计划（No. 2021YFB3401700）；"
   },
   {
     "objectID": "rpkg/covidnor/index.html",

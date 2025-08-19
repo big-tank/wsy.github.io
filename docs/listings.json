@@ -18,14 +18,9 @@
     ]
   },
   {
-    "listing": "/Publication/Publication.html",
+    "listing": "/blog/blog.html",
     "items": [
-      "/Publication/ern4110/index.html",
-      "/Publication/med3007/index.html",
-      "/Publication/mf9130/index.html",
-      "/Publication/workshop_bioinf/index.html",
-      "/Publication/r_novice/index.html",
-      "/Publication/workshop_rladies_zurich/index.html"
+      "/blog/blog_20230103_blogdown2quarto/index.html"
     ]
   },
   {
@@ -36,12 +31,6 @@
       "/projects/dan/index.html",
       "/projects/ehr/index.html",
       "/projects/sykdomspulsen/index.html"
-    ]
-  },
-  {
-    "listing": "/blog/blog.html",
-    "items": [
-      "/blog/blog_20230103_blogdown2quarto/index.html"
     ]
   }
 ]
