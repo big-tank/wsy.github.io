@@ -13,23 +13,12 @@ about:
     - icon: github
       text: big-tank
       href: https://github.com/big-tank
-    - icon: douyin
-      text: jienizaizai6
-      href: https://www.douyin.com/user/self
 ---
 
 ::: {#hero-heading}
 
-Hello! 
-
-I am a Phd student at NWPU.
-
- I'm mostly interested in **RWD (real-world data)**, such as hospital **Electronic Health Record** and large public health registry data. I develop [ggehr](https://chizapoth.github.io/ggehr/), a ggplot2 extension to visualizing EHR data.
-
-In 2020-2022, I worked as part of the COVID emergency response at the [Norwegian Institute of Public Health](https://www.fhi.no/en/). I helped develop the open source real-time analysis and public health surveillance system, **Sykdomspulsen** (now [CSIDS](https://www.csids.no)). I am co-leading [CAMIS](https://psiaims.github.io/CAMIS/) working group. 
-
-As a part-time lecturer, I teach **statistics with R and Quarto** at Oslo Centre for Biostatistics and Epidemiology ([OCBE](https://www.med.uio.no/imb/english/research/centres/ocbe/)) and **R programming** at the [Carpentries workshops](https://www.ub.uio.no/english/libraries/dsc/carpentry-uio/) at UiO.
+欢迎来到我的主页！虽然这里暂时啥也没得。
 
 
-I enjoy cooking and spending time in the mountains.
+
 :::

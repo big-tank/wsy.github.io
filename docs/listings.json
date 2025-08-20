@@ -22,15 +22,5 @@
     "items": [
       "/blog/blog_20230103_blogdown2quarto/index.html"
     ]
-  },
-  {
-    "listing": "/projects/projects.html",
-    "items": [
-      "/projects/os_teaching/index.html",
-      "/projects/phuse/index.html",
-      "/projects/dan/index.html",
-      "/projects/ehr/index.html",
-      "/projects/sykdomspulsen/index.html"
-    ]
   }
 ]
