@@ -4,35 +4,21 @@
     "href": "talks/talks.html",
     "title": "Talks",
     "section": "",
-    "text": "There is not any talk scheduled."
+    "text": "记录科研过程"
   },
   {
-    "objectID": "talks/talks.html#upcoming",
-    "href": "talks/talks.html#upcoming",
+    "objectID": "talks/talks.html#说在前面",
+    "href": "talks/talks.html#说在前面",
     "title": "Talks",
     "section": "",
-    "text": "There is not any talk scheduled."
+    "text": "记录科研过程"
   },
   {
-    "objectID": "talks/talks.html#selected-previous-talks",
-    "href": "talks/talks.html#selected-previous-talks",
+    "objectID": "talks/talks.html#碎碎念记录",
+    "href": "talks/talks.html#碎碎念记录",
     "title": "Talks",
-    "section": "Selected previous talks",
-    "text": "Selected previous talks\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nDate\n\n\n\n\n\n\n\n\nUse Quarto, Make Friends\n\n\nKolkata UseR meetup\n\n\n2024-09-21\n\n\n\n\n\n\nOne step closer to better Electronic Health Records data\n\n\nPHUSE Single Day Event Basel\n\n\n2024-09-18\n\n\n\n\n\n\nCAMIS: An Open-Source, Community endeavour for Comparing Analysis Method Implementations\n\n\nUseR! 2024 Salzburg\n\n\n2024-07-10\n\n\n\n\n\n\nA one year recap on teaching statistcis to medical students: how can R and Quarto help?\n\n\nR/Medicine 2024 - Online\n\n\n2024-06-13\n\n\n\n\n\n\nTransforming medical statistics classroom with R and Quarto\n\n\nBasel R meeting\n\n\n2023-07-21\n\n\n\n\n\n\nSykdomspulsen: An automated public health surveillance platform\n\n\nOslo UseR meetup \n\n\n2022-06-16\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "talks/rstats_20230721_teaching/index.html",
-    "href": "talks/rstats_20230721_teaching/index.html",
-    "title": "Transforming medical statistics classroom with R and Quarto",
-    "section": "",
-    "text": "Time and place: July 21, 2023 10AM. Roche office, Basel, Switzerland\nSlides for this talk can be accessed here."
-  },
-  {
-    "objectID": "talks/rstats_20230721_teaching/index.html#about-the-topic",
-    "href": "talks/rstats_20230721_teaching/index.html#about-the-topic",
-    "title": "Transforming medical statistics classroom with R and Quarto",
-    "section": "About the topic",
-    "text": "About the topic\nThe 8 day introductory statistics course (MF9130) at the Faculty of Medicine, University of Oslo is designed for PhD students in medicine, biology, psychology and other health related fields. Similar to other conventional teaching methods, the course has been focusing largely on theory and hand calculation. The software has been Stata and SPSS, and data analysis was mostly left for the students to figure out on their own.\nThis year, we made an attempt to transform the course with R, and aimed to teach more practical data analysis skills. We added one session per day where the instructor guide students on R and project management, importing data , basic manipulation and statistical methods. The IT skills of the students vary greatly, and therefore we used the ‘sticky notes’ help system borrowed from the Carpentries to make sure everyone could get help in the first days. We have created a course website using Quarto, where all the material and R exercises (with rendered solution) are available for self-study. We have witnessed amazing progress - by the end of the first week, students with the least computer / data skills were able to work on dataframes, make basic plots and do a chi-squared test. This helps build students confidence in data and statistics, and as a result, they can start to work on their own datasets using the skills immediately."
+    "section": "碎碎念记录",
+    "text": "碎碎念记录\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nDate\n\n\n\n\n\n\n\n\n第一次玩主页\n\n\n测试\n\n\n2025-08-21\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "talks/ph_20230330_sp/index.html",
@@ -49,18 +35,11 @@
     "text": "About the topic\nSituational awareness is key to fast response during a public health emergency, such as COVID-19 pandemic. However, making disease surveillance reports that cover different geographical units for various metrics and data registries is both resource intensive and time consuming. Open source tools such as R packages, GitHub and Airflow can make this process automatic, reproducible and scalable.\nEvery day during the pandemic, Sykdomspulsen team at the Norwegian Institute of Public Health (FHI/NIPH) fetched data from more than 15 data sources, cleaned, censored datasets and carried out a wide range of statistical analyses. Over 1000 situational reports containing automated graphs and tables were produced before breakfast time.\nGrab you matpakke and join us for a presentation from Chi Zhang about how Sykdomspulsen team used and developed open source software to make public health surveillance and reporting more efficient, followed up by a discussion on the benefits and concerns of making these data public. We will end with an open Q&A session as usual!"
   },
   {
-    "objectID": "talks/ehr_20240918_betterehr/index.html",
-    "href": "talks/ehr_20240918_betterehr/index.html",
-    "title": "One step closer to better Electronic Health Records data",
+    "objectID": "talks/first_250821/index.html",
+    "href": "talks/first_250821/index.html",
+    "title": "第一次玩主页",
     "section": "",
-    "text": "Real-World Data (RWD) like Electronic Health Records (EHR) is crucial for understanding drug usage and various treatments and generating Real-World Evidence (RWE). Risk prediction has been a major application where EHR is used, and there is now a shift towards causal inference, which requires data of even higher quality. Patients undergo treatments (drugs, procedures) at various times during their hospital stays, yet the data being recorded are messy and error-prone for various reasons. Analysts spend significant amount of time to sit together with clinicians to identify and understand abnormal records, and unfortunately this process is challenging to automate.\nThis talk will use an example on antibiotics prescription and use at a Nordic hospital to illustrate how some EHR systems can improve for better clinical decision-making and better data for research. I will also introduce a pilot R package (ggehr) that facilitates visual exploration of EHR data, and how it can help reconstruct patient journeys and enable analysts to perform effective quality control."
-  },
-  {
-    "objectID": "talks/ehr_20210218_biday/index.html",
-    "href": "talks/ehr_20210218_biday/index.html",
-    "title": "Network Analysis of Hospital EHR data",
-    "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "按部就班 操作简单 好处暂时没看见"
   },
   {
     "objectID": "talks/community_20240921_quartofriends/index.html",
@@ -151,7 +130,7 @@
     "href": "about_me.html",
     "title": "王思源",
     "section": "",
-    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n\n\nI am a statistician, R developer and part-time lecturer at the Faculty of Medicine, University of Oslo. Over the past few years, I’ve become very interested in research software, open source and data science practices in education and public sector.\nMy interests are:\n\n运动：羽毛球、台球、游泳；\nStatistical software development in public health and clinical research,\nStatistics education with open source tools,\nQuarto.\n\nI have a MSc in Statistics from Imperial College London in 2016. Then I moved to Norway to do my PhD and some hiking. I obtained my PhD (thesis: Representation and Utilization of hospital Electronic Health Records data) at the Faculty of Medicine, University of Oslo in 2022. I am still working on EHR and antibiotics related projects, and I develop ggehr, a ggplot2 extension to visualizing EHR data.\nShortly after the COVID-19 pandemic started in 2020, I joined Norwegian Institute of Public Health as a data scientist (R developer + statistician) for the open source real-time analysis and public health surveillance system, Sykdomspulsen (now CSIDS). I am one of a founding members of CSIDS, the Consortium for Statistics in Disease Surveillance, where we build open source software for public health surveillance.\nSometimes I teach statistics courses (MF9130, MF9130E, ERN4110) at Oslo Centre for Biostatistics and Epidemiology (OCBE), University of Oslo. As a certified Carpentries instructor, I also teach and help with R programming at the Carpentries workshops at University of Oslo. In 2023, I lead the transition of medical statistics classroom of MF9130E into open-source (read more).\nI am an active member of Oslo User R group and Oslo R ladies group. I give talks and host workshops to learn and share.\nIn the past 11 years I have lived in the UK and Norway (7+ years). I speak English, Norwegian and Chinese, and trying to learn Italian. I like outdoor activities, and most likely I am spending my summer in the mountains."
+    "text": "wangsiyvan@mail.nwpu.edu.cn\n  \n  \n    \n     big-tank\n  \n  \n    \n     jienizaizai6\n  \n\n\n\n我是一位苦海争渡的论文工作者。\nMy interests are:\n\n运动：羽毛球、台球、游泳；\nQuarto.\n\n加链接做法：中括号框住，后面有小括号放置链接。 前后两个**加粗字体"
   },
   {
     "objectID": "blog/blog.html",
@@ -273,11 +252,11 @@
     "text": "2024.7.8-11, Salzburg, Austria. Conference link: UseR!\nStatisticians using multiple softwares (SAS, R, Python) will have found differences in analysis results that warrant further justification. Whilst some industries may accept results not being the same as long as they are “close”, the highly regulated pharmaceutical industry would require an identical match in results. Yet, discrepancies might still occur, and knowing the reasons (different methods, options, algorithms etc) is critical to the modern statistician and subsequent regulatory submissions.\nIn this talk I will introduce CAMIS: Comparing Analysis Method Implementations in Software. https://psiaims.github.io/CAMIS/ It is a joint-project between PHUSE, the R Validation Hub, PSI AIMS, R consortium and openstatsware. The aim of CAMIS is to investigate and document differences and similarities between different statistical softwares such as SAS and R. We use Quarto and Github to document methods, algorithms and comparisons between softwares through small case studies, and all articles are contributed by the community. In the transition from proprietary to open source technology in the industry, CAMIS can serve as a guidebook to navigate this process.\n\nkeywords: cross industry collaboration, multi-lingua, open-source, quarto"
   },
   {
-    "objectID": "talks/ehr_20221013_ml_icu/index.html",
-    "href": "talks/ehr_20221013_ml_icu/index.html",
-    "title": "Machine Learning in Intensive Care Units",
+    "objectID": "talks/ehr_20240918_betterehr/index.html",
+    "href": "talks/ehr_20240918_betterehr/index.html",
+    "title": "One step closer to better Electronic Health Records data",
     "section": "",
-    "text": "A 45 minutes trial lecture to fulfill the requirement of my PhD degree."
+    "text": "Real-World Data (RWD) like Electronic Health Records (EHR) is crucial for understanding drug usage and various treatments and generating Real-World Evidence (RWE). Risk prediction has been a major application where EHR is used, and there is now a shift towards causal inference, which requires data of even higher quality. Patients undergo treatments (drugs, procedures) at various times during their hospital stays, yet the data being recorded are messy and error-prone for various reasons. Analysts spend significant amount of time to sit together with clinicians to identify and understand abnormal records, and unfortunately this process is challenging to automate.\nThis talk will use an example on antibiotics prescription and use at a Nordic hospital to illustrate how some EHR systems can improve for better clinical decision-making and better data for research. I will also introduce a pilot R package (ggehr) that facilitates visual exploration of EHR data, and how it can help reconstruct patient journeys and enable analysts to perform effective quality control."
   },
   {
     "objectID": "talks/ph_20220616_splverse/index.html",
@@ -287,24 +266,17 @@
     "text": "About the talk\nWatch the talk on YouTube\nSykdomspulsen is a real-time analysis and disease surveillance system designed at developed at the Norwegian Institute of Public Health (FHI). Sykdomspulsen processes new data collected from 15 data sources (e.g., covid-19 cases), runs 1000.000+ statistical analysis automatically for all locations (nation, county, municipality) in Norway, produces 1000+ reports and alerts for public health authorities and shares data to the public on GitHub.\nSykdomspulsen runs on a collection of R packages, the {splverse}. {splverse} is an ecosystem for infectious disease surveillance, from analysis planning, statistical analysis to reporting via visualization, shiny website and Rmarkdown generated reports. In this talk, Chi will present how Sykdomspulsen does public health real-time surveillance during the pandemic using R. Chi will introduce some of the core packages and illustrate how they work together, with an example using real surveillance data published daily on GitHub.\n\n\nAbout the speaker\nChi is currently working at the Sykdomspulsen team as a researcher and R developer, at the Norwegian Institute of Public Health. Before she joined Sykdomspulsen in the middle of the pandemic (2020), she was a PhD student at the Department of Biostatistics at University of Oslo (OCBE), working on hospital EHR data."
   },
   {
-    "objectID": "talks/rstats_20190402_blogdown/index.html",
-    "href": "talks/rstats_20190402_blogdown/index.html",
-    "title": "Building Website in R: Step by Step Introduction to blogdown",
+    "objectID": "talks/rstats_20230721_teaching/index.html",
+    "href": "talks/rstats_20230721_teaching/index.html",
+    "title": "Transforming medical statistics classroom with R and Quarto",
     "section": "",
-    "text": "Since this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "Time and place: July 21, 2023 10AM. Roche office, Basel, Switzerland\nSlides for this talk can be accessed here."
   },
   {
-    "objectID": "talks/rstats_20240613_teaching/index.html",
-    "href": "talks/rstats_20240613_teaching/index.html",
-    "title": "A one year recap on teaching statistcis to medical students: how can R and Quarto help?",
-    "section": "",
-    "text": "Time and place: June 13 2024. Online\nSlides for this talk can be accessed here."
-  },
-  {
-    "objectID": "talks/rstats_20240613_teaching/index.html#about-the-topic",
-    "href": "talks/rstats_20240613_teaching/index.html#about-the-topic",
-    "title": "A one year recap on teaching statistcis to medical students: how can R and Quarto help?",
+    "objectID": "talks/rstats_20230721_teaching/index.html#about-the-topic",
+    "href": "talks/rstats_20230721_teaching/index.html#about-the-topic",
+    "title": "Transforming medical statistics classroom with R and Quarto",
     "section": "About the topic",
-    "text": "About the topic\nThe Department of Biostatistics at University of Oslo offer statistics courses at different levels for medical students and PhD candidates with clinical backgrounds. The courses were traditionally taught with a focus on theory instead of data analysis, where SPSS and STATA were the tools of choice.\nSince 2023 spring semester, we have been gradually transforming some of our statistics courses into R, using Quarto course websites and Carpentries style live-coding instruction. With new Quarto tools (such as WebR) we also added interactivity in the code blocks. So far we have transformed two courses with over 100 students who have almost no programming experience. We have observed impressive progress in the skill development, and received significantly more positive feedback when it comes to statistics education.\nIn this talk, I would like to share our experience on the successes and challenges throughout the process. Looking back, is it cost-effective? Definitely. Can we do better in the future? Almost surely. If you are also planning to adopt new technology in your teaching activities, join us to learn more about what you can do to make the transition happen!\nCourse website can be accessed here"
+    "text": "About the topic\nThe 8 day introductory statistics course (MF9130) at the Faculty of Medicine, University of Oslo is designed for PhD students in medicine, biology, psychology and other health related fields. Similar to other conventional teaching methods, the course has been focusing largely on theory and hand calculation. The software has been Stata and SPSS, and data analysis was mostly left for the students to figure out on their own.\nThis year, we made an attempt to transform the course with R, and aimed to teach more practical data analysis skills. We added one session per day where the instructor guide students on R and project management, importing data , basic manipulation and statistical methods. The IT skills of the students vary greatly, and therefore we used the ‘sticky notes’ help system borrowed from the Carpentries to make sure everyone could get help in the first days. We have created a course website using Quarto, where all the material and R exercises (with rendered solution) are available for self-study. We have witnessed amazing progress - by the end of the first week, students with the least computer / data skills were able to work on dataframes, make basic plots and do a chi-squared test. This helps build students confidence in data and statistics, and as a result, they can start to work on their own datasets using the skills immediately."
   }
 ]

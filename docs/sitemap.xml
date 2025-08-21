@@ -2,23 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/talks/talks.html</loc>
-    <lastmod>2025-08-19T11:39:04.274Z</lastmod>
-  </url>
-  <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/rstats_20230721_teaching/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.274Z</lastmod>
+    <lastmod>2025-08-21T09:43:24.738Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/talks/ph_20230330_sp/index.html</loc>
     <lastmod>2025-08-19T11:39:04.264Z</lastmod>
   </url>
   <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/ehr_20240918_betterehr/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.254Z</lastmod>
-  </url>
-  <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/ehr_20210218_biday/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.239Z</lastmod>
+    <loc>https://big-tank.github.io/wsy.github.io/talks/first_250821/index.html</loc>
+    <lastmod>2025-08-21T09:43:20.408Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/talks/community_20240921_quartofriends/index.html</loc>
@@ -54,11 +46,11 @@
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/projects/projects.html</loc>
-    <lastmod>2025-08-20T11:40:20.069Z</lastmod>
+    <lastmod>2025-08-21T09:31:04.151Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/index.html</loc>
-    <lastmod>2025-08-20T11:28:25.364Z</lastmod>
+    <lastmod>2025-08-21T09:38:44.673Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/blog/blog_20230103_blogdown2quarto/index.html</loc>
@@ -66,7 +58,7 @@
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/about_me.html</loc>
-    <lastmod>2025-08-19T13:32:19.071Z</lastmod>
+    <lastmod>2025-08-21T09:47:01.024Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/blog/blog.html</loc>
@@ -113,23 +105,15 @@
     <lastmod>2025-08-19T11:39:04.219Z</lastmod>
   </url>
   <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/ehr_20191028_rladies/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.230Z</lastmod>
-  </url>
-  <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/ehr_20221013_ml_icu/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.239Z</lastmod>
+    <loc>https://big-tank.github.io/wsy.github.io/talks/ehr_20240918_betterehr/index.html</loc>
+    <lastmod>2025-08-19T11:39:04.254Z</lastmod>
   </url>
   <url>
     <loc>https://big-tank.github.io/wsy.github.io/talks/ph_20220616_splverse/index.html</loc>
     <lastmod>2025-08-19T11:39:04.259Z</lastmod>
   </url>
   <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/rstats_20190402_blogdown/index.html</loc>
-    <lastmod>2025-08-19T11:39:04.269Z</lastmod>
-  </url>
-  <url>
-    <loc>https://big-tank.github.io/wsy.github.io/talks/rstats_20240613_teaching/index.html</loc>
+    <loc>https://big-tank.github.io/wsy.github.io/talks/rstats_20230721_teaching/index.html</loc>
     <lastmod>2025-08-19T11:39:04.274Z</lastmod>
   </url>
 </urlset>
