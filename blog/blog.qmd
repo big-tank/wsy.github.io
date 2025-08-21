@@ -4,7 +4,7 @@ description: |
   A place to store learnings and thoughts on public health, data science and open source development 
 listing:
   - id: blog
-    fields: [title, date]
+    fields: [title,description, date]
     contents: 
       - "blog_*/index.qmd"
     type: table
@@ -16,7 +16,7 @@ listing:
     date-format: short
     
   - id: readnotes
-    fields: [title, date]
+    fields: [title,description, date]
     contents: 
       - "readnotes_*/index.qmd"
     type: table
@@ -28,7 +28,7 @@ listing:
     date-format: short
 
   - id: technotes
-    fields: [title, date]
+    fields: [title,description, date]
     contents: 
       - "technotes_*/index.qmd"
     type: table
@@ -59,9 +59,9 @@ I'd be glad if it helps you in some way.
 
 
 
-### Reading notes
+### Oringin 笔记
 
-This section is constantly being updated.
+记录绘图相关经验
 
 ::: {#readnotes}
 :::

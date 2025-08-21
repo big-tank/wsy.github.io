@@ -98,6 +98,20 @@
     "text": "An R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments\nGitHub Link"
   },
   {
+    "objectID": "projects/projects.html",
+    "href": "projects/projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "国家重点研发计划（No. 2021YFB3401700）；"
+  },
+  {
+    "objectID": "projects/projects.html#科研项目",
+    "href": "projects/projects.html#科研项目",
+    "title": "Projects",
+    "section": "",
+    "text": "国家重点研发计划（No. 2021YFB3401700）；"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "王思源",
@@ -137,7 +151,7 @@
     "href": "blog/blog.html",
     "title": "Blog and notes",
     "section": "",
-    "text": "Blog\n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\n\n\n\n\n\nWebsite reboot: switching from Blogdown to Quarto\n\n\n1/3/23\n\n\n\n\n\n\nNo matching items\n\n\n\nTechnical notes\nMost of the technical notes are in the newly built note repository, Data Apothecary’s Notes. Please feel free to reach out if you found any errors!\nI’d be glad if it helps you in some way.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items\n\n\n\nReading notes\nThis section is constantly being updated.\n\n\n\n\nTitle\nDate\n\n\n\n\n\nNo matching items"
+    "text": "Blog\n\n\n\n\n\n\nTitle\n\n\n\nDescription\n\n\n\nDate\n\n\n\n\n\n\n\n\nWebsite reboot: switching from Blogdown to Quarto\n\n\nTime to reboot the personal website. Now, with Quarto \n\n\n1/3/23\n\n\n\n\n\n\nNo matching items\n\n\n\nTechnical notes\nMost of the technical notes are in the newly built note repository, Data Apothecary’s Notes. Please feel free to reach out if you found any errors!\nI’d be glad if it helps you in some way.\n\n\n\n\nTitle\nDescription\nDate\n\n\n\n\n\nNo matching items\n\n\n\nOringin 笔记\n记录绘图相关经验\n\n\n\n\nTitle\nDescription\nDate\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "dev/short_bio.html",
@@ -194,13 +208,6 @@
     "title": "Publications",
     "section": "期刊论文",
     "text": "期刊论文\n\nSiyuan Wang, Menglin Zhao, Jialong Zhao, et al. Investigation on mechanical property and failure mechanism of the carbon/glass hybrid laminate bolted joints using acoustic emission. Tribology International, 2025, 202: 110284, Online. Link\nMenglin Zhao, Siyuan Wang, Zehong Liu, et al. A semi-analytical method for determining the mode-I delamination R-curve and fiber bridging traction-separation law of Double-double laminates. Thin-Walled Structures, 2024, 205: 112383, Online. Link\nAnyang Wang, Zhongqi Wang, Siyuan Wang, et al. Mechanical behaviour and damage mechanism of static/dynamic interference-fit installation in laminated bolted joint using ultra-thin plies. Tribology International, 2024, 194: 109482, Online. Link\nYang Zhao, Menglin Zhao, Siyuan Wang, et al. Experimental investigation of stacking interface on mode II interlaminar behaviour of self-healable vitrimeric CFRP. Composites Part A: Applied Science and Manufacturing, 2024, 185: 108326, Online. Link\n何靓,李尧,王思源,等.Double-Double铺层复合材料C型梁变厚度减重优化[J/OL].复合材料学报,1-13，已出版. Link"
-  },
-  {
-    "objectID": "Publication.html#参与科研项目",
-    "href": "Publication.html#参与科研项目",
-    "title": "Publications",
-    "section": "参与科研项目",
-    "text": "参与科研项目\n\n国家重点研发计划（No. 2021YFB3401700）；"
   },
   {
     "objectID": "rpkg/covidnor/index.html",
