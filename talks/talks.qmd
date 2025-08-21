@@ -9,14 +9,15 @@ listing:
     date-format: iso
     fields: [title, description, date]
     contents: 
-      - ph_20220616_splverse
-      - rstats_20240613_teaching
-      - rstats_20230721_teaching
+      - first_250821 
+      #- ph_20220616_splverse
+      #- rstats_20240613_teaching
+      #- rstats_20230721_teaching
       # - ehr_20221013_ml_icu
       # - ehr_20210218_biday
-      - ehr_20240918_betterehr
-      - community_20240921_quartofriends
-      - community_20240710_camis
+      #- ehr_20240918_betterehr
+      #- community_20240921_quartofriends
+      #- community_20240710_camis
       # - rstats_20190402_blogdown
     type: table
     sort: "date desc"
@@ -25,11 +26,11 @@ listing:
     filter-ui: true
 ---
 
-## Upcoming
+## 说在前面
 
-There is not any talk scheduled.
+记录科研过程
 
-## Selected previous talks
+## 碎碎念记录
 
 
 ::: {#past}

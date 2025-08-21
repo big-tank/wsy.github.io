@@ -1,0 +1,9 @@
+---
+title: "第一次玩主页"
+description: "测试"
+date: "2025-08-21"
+categories: [日常]
+priority: 1
+---
+
+按部就班 操作简单 好处暂时没看见
